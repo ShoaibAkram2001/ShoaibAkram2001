@@ -1,14 +1,14 @@
 <img src="https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg" />
-<h1 align="center">Hi 👋, I'm junaid786-prog</h1>
+<h1 align="center">Hi 👋, I'm shoaibakram2001</h1>
 <h3 align="center">MERN stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid786-prog&label=Profile%20views&color=0e75b6&style=flat" alt="junaid786-prog" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid786-prog" alt="junaid786-prog" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoaibakram2001" alt="shoaibakram2001" /></a> </p>
 
 - 🔭 I’m currently working on Ecomerce-Api
 
-- 💬 **Typescript, Javascript, Java, Postgress,C#**
+- 💬 **JavaScript, Asp.net, Java, Postgress,C#**
 
 - 📫 How to reach me **mianshoaibakram786@gmail.com**
 
@@ -25,7 +25,7 @@
 <h3 align="left">Frameworks & Tools:</h3>
 <h1>   </h1>
 
- <a href="https://learn.microsoft.com/en-us/aspnet/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" alt="asp.net mvc" width="100" height="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://learn.microsoft.com/en-us/aspnet/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="asp.net mvc" width="100" height="80"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="100" height="80"/> </a>
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://inapp.com/wp-content/uploads/elementor/thumbs/express-js-01-1-q05uw85vt1jqloiy5k82sfy7tgvysgt1uqld8slsbc.png" alt="redux" width="200" height="80"/> </a>
