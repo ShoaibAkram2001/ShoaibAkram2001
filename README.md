@@ -10,7 +10,7 @@
 
 - 💬 **JavaScript, Asp.net, Java, Postgress,C#**
 
-- 📫 How to reach me **mianshoaibakram786@gmail.com**
+- 📫 How to reach me **chudharyshoaibakram@gmail.com**
 
 
 <h3 align="left">What I use?</h3>
